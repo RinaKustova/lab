@@ -1,0 +1,15 @@
+<!ENTITY vk_player_ext_panel.label "VK Player Control Panel options">
+<!ENTITY vk_player_ext_panelToolbarButton.label_prev "Previous track">
+<!ENTITY vk_player_ext_panelToolbarButton.tooltip_prev "Previous track">
+<!ENTITY vk_player_ext_panelToolbarButton.label_play "Play / Pause">
+<!ENTITY vk_player_ext_panelToolbarButton.tooltip_play "Play / Pause">
+<!ENTITY vk_player_ext_panelToolbarButton.label_next "Next track">
+<!ENTITY vk_player_ext_panelToolbarButton.tooltip_next "Next track">
+<!ENTITY vk_player_ext_panelToolbarButton.label_add "Add to my music">
+<!ENTITY vk_player_ext_panelToolbarButton.tooltip_add "Add to my music">
+<!ENTITY vk_player_ext_panelToolbarButton.label_repeat "Loop">
+<!ENTITY vk_player_ext_panelToolbarButton.tooltip_repeat "Loop">
+<!ENTITY vk_player_ext_panelToolbarButton.label_shuffle "Shuffle">
+<!ENTITY vk_player_ext_panelToolbarButton.tooltip_shuffle "Shuffle">
+<!ENTITY vk_player_ext_panelToolbarButton.label_return "Home">
+<!ENTITY vk_player_ext_panelToolbarButton.tooltip_return "Home">

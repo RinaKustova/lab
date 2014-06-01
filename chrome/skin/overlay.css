@@ -1,0 +1,40 @@
+.vk_player_ext_panel_style{
+	opacity: 0.83
+}
+
+.vk_player_ext_panel_style:hover{
+	opacity: 1
+}
+
+toolbar[iconsize="small"] #vk_player_ext_style-prev
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/16_16/prev.png");}
+#vk_player_ext_style-prev
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/24_24/prev.png");}
+toolbar[iconsize="small"] #vk_player_ext_style-shuffle
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/16_16/shuffle.png");}
+#vk_player_ext_style-shuffle
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/24_24/shuffle.png");}
+toolbar[iconsize="small"] #vk_player_ext_style-repeat
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/16_16/repeat.png");}
+#vk_player_ext_style-repeat
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/24_24/repeat.png");}
+toolbar[iconsize="small"] #vk_player_ext_style-return
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/16_16/return.png");}
+#vk_player_ext_style-return
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/24_24/return.png");}
+toolbar[iconsize="small"] #vk_player_ext_style-next
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/16_16/next.png");}
+#vk_player_ext_style-next
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/24_24/next.png");}
+toolbar[iconsize="small"] #vk_player_ext_style-add
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/16_16/add.png");}
+#vk_player_ext_style-add
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/24_24/add.png");}
+toolbar[iconsize="small"] #vk_player_ext_style-play
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/16_16/play.png");}
+#vk_player_ext_style-play
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/24_24/play.png");}
+toolbar[iconsize="small"] #vk_player_ext_style-pause
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/16_16/pause.png");}
+#vk_player_ext_style-pause
+	{list-style-image: url("chrome://vk_player_ext_panel/skin/icons/24_24/pause.png");}

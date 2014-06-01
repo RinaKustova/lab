@@ -1,0 +1,12 @@
+content   vk_player_ext_panel                 chrome/content/
+skin      vk_player_ext_panel   classic/1.0   chrome/skin/
+locale    vk_player_ext_panel   en-US         chrome/locale/en-US/
+locale    vk_player_ext_panel   ru-RU         chrome/locale/ru-RU/
+overlay	chrome://browser/content/browser.xul	chrome://vk_player_ext_panel/content/overlay.xul
+overlay	chrome://browser/content/navigator.xul	chrome://vk_player_ext_panel/content/overlay.xul
+
+style	chrome://global/content/customizeToolbar.xul	chrome://vk_player_ext_panel/skin/overlay.css
+
+
+
+
