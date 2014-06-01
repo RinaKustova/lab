@@ -1,4 +1,4 @@
-<!ENTITY keyconfig.settings "Hotkeys">
-<!ENTITY keyconfig.action "Action">
-<!ENTITY keyconfig.shortcut "Keyboard shortcut">
-<!ENTITY keyconfig.bigsize "Big icons">
+<!ENTITY keyconfig.settings "Горячие клавиши">
+<!ENTITY keyconfig.action "Действие">
+<!ENTITY keyconfig.shortcut "Сочетание клавиш">
+<!ENTITY keyconfig.bigsize "Большие иконки">
